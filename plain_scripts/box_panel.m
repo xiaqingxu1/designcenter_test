@@ -1,5 +1,5 @@
 classdef BoxPanel < uix.BoxPanel
-    %uiextras.BoxPanel  Show one element inside a box panel.
+    %uiextras.BoxPanel  Show one element inside a box panel...
     %
     %   obj = uiextras.BoxPanel() creates a box-styled panel object with
     %   automatic management of the contained widget or layout. The
